@@ -3,7 +3,9 @@
 
 Repository for code and data supporting Johnston et al. (2024) - Secondary thalamic dysfunction underlies abnormal large-scale neural dynamics in chronic stroke (in press)
 
-See stroke_ct_model_ms_analyses.ipynb to reproduce results reported in manuscript. 
+See stroke_ct_model_ms_analyses.ipynb to reproduce results reported in manuscript.
+
+Raw data to be released at: http://www.braincode.ca/content/controlled-data-releases#dr023
 
 ## Abstract
 Stroke causes pronounced and widespread slowing of neural activity. Despite decades
