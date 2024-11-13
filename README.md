@@ -1,7 +1,7 @@
 # Modelling abnormal large-scale MEG dynamics in chronic stroke with a corticothalamic model 
 ## Phillip R. Johnston, John D. Griffiths, Leanne Rokos, Anthony R. McIntosh, Jed A. Meltzer
 
-Repository for code and data supporting Johnston et al. (2024) - Secondary thalamic dysfunction underlies abnormal large-scale neural dynamics in chronic stroke (in press)
+Repository for code and data supporting Johnston et al. (2024) - Secondary thalamic dysfunction underlies abnormal large-scale neural dynamics in chronic stroke
 
 See stroke_ct_model_ms_analyses.ipynb to reproduce results reported in manuscript.
 
@@ -32,3 +32,8 @@ indicate that the frequently observed poststroke slowing reflects a disruption o
 corticothalamic circuit dynamics due to secondary thalamic dysfunction, and highlights
 the thalamus as an important target for understanding and potentially treating
 poststroke brain dysfunction.
+
+## Citation
+Johnston, P. R., Griffiths, J. D., Rokos, L., McIntosh, A. R., & Meltzer, J. A. (2024). Secondary
+thalamic dysfunction underlies abnormal large-scale neural dynamics in chronic stroke. _Proceedings
+of the National Academy of Sciences_, 121 (46), e2409345121. https://doi.org/10.1073/pnas.2409345121
